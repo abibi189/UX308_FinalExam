@@ -38,7 +38,6 @@ function Question4(){
 <p>largest_product(0, -2, -10) == "{largest_product(0, -2, -10)}"</p>
 </section>
 }
-
 function Question5(){
     return <section>
 5. Day of the week

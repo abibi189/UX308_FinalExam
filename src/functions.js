@@ -28,7 +28,7 @@ function day_of_the_week(day_num) {
     if (day_num >= 1 && day_num <= 7) {
         return days[day_num - 1];
     }
-
+    
     return "Error";
 }
 function pay_raise(status, years, salary) {
