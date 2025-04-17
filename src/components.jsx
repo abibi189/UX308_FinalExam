@@ -12,7 +12,7 @@ function Question1(){
 
 function Question2(){
     return <section>
-2. Write a function that converts from fahrenheit to celsius        
+2. Write a function that converts from fahrenheit to celsius.        
 <h2>results</h2>
 <p>fahrenheitToCelsius(32) == "{fahrenheitToCelsius(32)}"</p>
 <p>fahrenheitToCelsius(212) == "{fahrenheitToCelsius(212)}"</p>
